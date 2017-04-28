@@ -4,4 +4,4 @@
 
 Collaborateurs : Pauline Creppy, Stéphane Dennery, Alexandra Obertelli, Benjamin Song
 
-Ajout du webhook
+Ajout du webhook discord
